@@ -1,0 +1,15 @@
+1. OOP nima?
+Javob: Obyektga yo'naltirilgan dasturlash paradigmasi.
+
+2. Java nima?
+Javob: Platformaga bog'liq bo'lmagan dasturlash tili.
+
+3. Polimorfizm nima?
+Javob: Bir xil metodni turli xil shakllarda bajarish qobiliyati.
+
+4. Inkapsulyatsiya nima?
+Javob: Ma'lumotlarni himoya qilish.
+
+5. Inheritance nima?
+Javob: Klasslar o'rtasida meros olish munosabati.
+
